@@ -1,0 +1,8 @@
+{
+   id = everybee.deadmanstalemod,
+   name = Dead Mans Tale Mod,
+   version = 0.1,
+   gameVersion = 0.21.29,
+   description = Adds the dead mans tale from destiny to necesse,
+   author = EveryBee
+}
